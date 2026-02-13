@@ -1,0 +1,35 @@
+body {
+    font-family: "Noto Serif HK", Verdana, Geneva, Tahoma, sans-serif;
+    /* border: 3px solid red; */
+    /* line-height: 2; */
+}
+* {
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    background-color: purple;
+    color:white;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 32px;
+    padding: 5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+}
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-left: 10px;
+}
+h3 {
+    color: purple;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+p{
+    line-height: 2;
+}

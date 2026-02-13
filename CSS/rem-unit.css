@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html,body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    border: 1px solid black;
+    background-color: coral;
+    height: 100vh;/*view port height*/
+    width: 100vh;
+}
+h1 {
+    font-size: 7vw;
+    padding: 0.3rem 0;/*root x 2 */
+}
+p {
+    font-size: 1rem;
+    margin: 1rem 0;
+}
+ul {
+    font-size: 1.5em;/*parent x 2*/
+}

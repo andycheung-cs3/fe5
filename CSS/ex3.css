@@ -1,0 +1,38 @@
+h1 {
+    /* color:red; */
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 800px;
+    /* background-color: lightblue; */
+    /* justify-content: right; */
+    justify-content: center;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* justify-content: end; */
+    /* gap: 10px; */
+    align-items: center;
+    /* align-items: stretch; */
+    
+}
+.flex-item {
+    width: 100%;
+    height: 200px;
+    /* background-color: coral; */
+    border: 1px solid black;
+    align-self: flex-start;
+    padding: 20px 10px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.flex-item1 {
+    background-color: coral;
+}
+a {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,22 @@
+.card {
+    border: 5px solid red;
+}
+main {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+.card {
+    padding: 10px;
+}
+.b:hover {
+    color:#ff5733;
+    text-decoration: underline;
+}

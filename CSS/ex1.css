@@ -1,0 +1,16 @@
+html,
+body {
+    font-family: "Noto Serif HK", Verdana, Geneva, Tahoma, sans-serif;
+    /* border: 3px solid red; */
+    line-height: 2;
+}
+
+h1 {
+    background-color: purple;
+    color: white;
+}
+
+p{
+    color:purple;
+    font-weight: bold;
+}
